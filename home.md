@@ -7,6 +7,6 @@
 [Shipping team page](Shipping)
 [Accounting team page](Accoun)
 
-[Customer Service team page](customerService)
+[Customer Service team page](customer-service)
 
 
